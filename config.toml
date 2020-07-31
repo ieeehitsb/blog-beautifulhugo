@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://ieeehitblog.ml/"
 languageCode = "en-us"
 title = "IEEE HIT SB Blogs"
 config = "config.toml"
@@ -6,13 +6,13 @@ theme = "beautifulhugo"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "A minimial and practical blog for impractical people"
+  subtitle = "A minimial and practical blog for impractical people!"
   mainSections = ["post","posts"]
   logo = "/img/avatar-icon.png" # Expecting square dimensions
   favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+
   comments = true
   readingTime = true
   wordCount = true
@@ -30,15 +30,14 @@ theme = "beautifulhugo"
 
   [Author]
     name = "Admin"
-    website = "yourwebsite.com"
-    email = "youremail@domain.com"
-    facebook = "username"
-    github = "username"
-    instagram = "username"
+    email = "ieeehitbranch@gmail.com"
+    facebook = "ieeehit"
+    instagram = "ieee_hit_sb"
+    github = "ieeehitsb"
 
     [[menu.main]]
         name = "Blog"
-        url = ""
+        url = "#"
         weight = 1
     [[menu.main]]
         name = "About"
@@ -47,4 +46,8 @@ theme = "beautifulhugo"
     [[menu.main]]
         name = "Tags"
         url = "/tags"
+        weight = 3
+    [[menu.main]]
+        name = "Main Website"
+        url = "/page/develop/"
         weight = 3
