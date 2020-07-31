@@ -1,6 +1,5 @@
 +++
 date = 2020-07-31T13:32:00Z
-draft = true
 title = "What is life?"
 
 +++
