@@ -1,6 +1,5 @@
 +++
 date = 2020-07-31T14:06:00Z
-draft = true
 title = "Gone are the Days!"
 
 +++
