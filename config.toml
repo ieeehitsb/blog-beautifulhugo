@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "IEEE HIT SB Blogs"
 config = "config.toml"
 theme = "beautifulhugo"
-
+paginate ="3"
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "A minimial and practical blog for impractical people!"
