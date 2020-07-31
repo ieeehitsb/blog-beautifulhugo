@@ -9,5 +9,4 @@ fields:
   name: date
   label: date
 pages:
-- content/posts/i-am-posting-it-from-my-phone.md
 - content/posts/what-is-life.md
