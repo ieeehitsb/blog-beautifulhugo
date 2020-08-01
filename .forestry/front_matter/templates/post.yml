@@ -8,5 +8,3 @@ fields:
 - type: datetime
   name: date
   label: date
-pages:
-- content/posts/gone-are-the-days.md
