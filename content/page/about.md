@@ -10,4 +10,6 @@ comments: false
 
 This student branch has been witnessing the best talents of the **Haldia Institute of Technology** from over a decade and the seniors associated with this student branch are currently studying/working in the best educational institutions/firms across the globe.
 
-The main aim of this blog to promote networking amongst alumni and students. Alumni can share their experiences on this platform. It will help the present students to get connected with the alumni and it will also help to improve their professional or corporate vision.
+The aim of this blog to promote knowledge and networking amongst alumni and students. They can share their experiences on this platform, the abstract of a project they are currently working on, or their random findings and musings. 
+
+It will help the present students to get connected with the alumni and it will also help to improve their professional or corporate vision.
